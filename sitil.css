@@ -1,0 +1,30 @@
+﻿body {
+   
+}
+
+.yuvarlakdiv {
+    border-radius: 10px;
+    padding: 20px; 
+    width: 95%;
+    height: 100%; 
+}
+
+.menu {
+     border-radius: 10px;
+    padding: 20px; 
+    width: 95%;
+    height: 100%; 
+    background-color:gray;
+    vertical-align:middle;
+}
+
+a {
+    color: white;
+}
+
+a:hover { 
+    /*background-color: black;*/
+    color:yellow;
+}
+
+
